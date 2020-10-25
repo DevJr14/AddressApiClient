@@ -1,8 +1,8 @@
 # Address Api Client App
 
-##Getting started
+## Getting started
 
-###Open the folder in Visual Studio Code
+### Open the folder in Visual Studio Code
 
 Open Terminal
 
