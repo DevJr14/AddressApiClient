@@ -13,3 +13,6 @@ Type npm install
 
 Run npm start
 
+
+## The app should run on http://localhost:3000/
+
